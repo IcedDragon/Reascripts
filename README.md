@@ -1,2 +1,2 @@
 # Reascripts
-Reaper scripts
+Time Selection Reaper script
