@@ -1,7 +1,7 @@
 --[[
  * ReaScript Name: LM-Extend-TimeSelection-BothSides
  * Description: Adjust Time Selection according to edit cursor position
- * Instructions: Make a Time Selection, move edit cursor, run the script
+ * Instructions: Make a Time Selection, reposition or move edit cursor, run the script
  * Screenshot: 
  * Author: Luis Marques
  * Author URI: 
